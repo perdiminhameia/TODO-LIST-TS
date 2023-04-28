@@ -19,6 +19,7 @@ import TodoList from './components/TodoList.vue';
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: #fff;
 }
 
 .logo {
